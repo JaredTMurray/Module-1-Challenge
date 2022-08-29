@@ -24,10 +24,3 @@ Three times success and failure intersected with goals.
 * the third being between 40000 to 49999. 
  ![Outcome vs Goals Image](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Outcomes_vs_Goals.png).
 
-
-
-
-•	Bullets are added in three ways: a typical bullet with an asterisk, a numbered bullet with numbers, or a hyphenated bullet with a hyphen.
-•	Images can be added with the following syntax: ![image_name](path/to/image_name.png).
-•	Hyperlinks to relevant files are  added in a similar manner: [filename](path/to/filename.xlxs).
-•	Line breaks are added by using three consecutive hyphens: ---.
