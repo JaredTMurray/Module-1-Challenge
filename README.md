@@ -8,6 +8,12 @@
 Please view the pivot and chart in Sheet >Theater Outcomes by Launch Date>
 To view deliverable 1: Please click on link below to unzip file.
  [Kickstarter_Challenge](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Kickstarter_Challenge.zip)).
+### Deliverable 2: Outcomes Based on Goals Chart
+Please see the picture below in located in Sheet >Outcomes Based on Goals>
+To view deliverable 2: Deliverable 2 was done on sheet >Outcomes Based on Goals>.
+ ![Outcome Based on Goals Image](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Kickstarter_Challenge.zip)).
+
+
 
 
 
