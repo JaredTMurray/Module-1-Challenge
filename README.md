@@ -7,7 +7,7 @@
 ### Deliverable 1: Outcomes Based on Launch Date Chart
 Please view the pivot and chart in Sheet >Theater Outcomes by Launch Date>
 To view deliverable 1: Please click on link below to unzip file.
- [Kickstarter_Challenge](path/to/filename.xlxs).
+ [Kickstarter_Challenge](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Kickstarter_Challenge.zip)).
 
 
 
