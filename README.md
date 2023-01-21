@@ -1,7 +1,7 @@
 Module 1 Challenge
-## Overview  of purpose of the analysis.
+## Overview of purpose of the analysis.
 --- 
-This new assignment consists of two technical analysis deliverables and a written report to deliver your results. I, Jared Murray, have submitter the following:
+This assignment consists of two technical analysis deliverables and a written report to deliver your results, of which the following was done:
 * Deliverable 1: Outcomes Based on Launch Date Chart
 * Deliverable 2: Outcomes Based on Goals Chart
 * Deliverable 3: A written analysis of the results
@@ -11,7 +11,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 The Outcomes based on launch date indicates that the most successful theater in the parent category were in the months May and June. While, Dec and Jan were the least successful months with 37 and 56 respectively. 
 In Theater failed outcomes the highest levels were in the months of Oct, May and July. While, Jan for Theater had the most cancellations. Please see image below of the Pivot Table and the Chart diagram:
 Please view the pivot and chart in Sheet >Theater Outcomes by Launch Date>
-![]()
+![](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Deliverable_1.png)
 To view deliverable 1: Please click on link [Kickstarter_Challenge](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Kickstarter_Challenge.zip)).
 
 ### Deliverable 2: Outcomes Based on Goals Chart
