@@ -12,7 +12,10 @@ The Outcomes based on launch date indicates that the most successful theater in 
 In Theater failed outcomes the highest levels were in the months of Oct, May and July. While, Jan for Theater had the most cancellations. Please see image below of the Pivot Table and the Chart diagram:
 Please view the pivot and chart in Sheet >Theater Outcomes by Launch Date>
 ![](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Deliverable_1.png)
-To view deliverable 1: Please click on link [Kickstarter_Challenge](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Kickstarter_Challenge.zip)).
+
+![](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Deliverable1-2.png)
+
+To view file the file [Kickstarter_Challenge](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Kickstarter_Challenge.zip)) and unzip.
 
 ### Deliverable 2: Outcomes Based on Goals Chart
 ---
