@@ -1,5 +1,5 @@
-# Overview of Project Module 1 Challenge
-## Background
+Module 1 Challenge
+## Overview  of purpose of the analysis.
 --- 
 This new assignment consists of two technical analysis deliverables and a written report to deliver your results. I, Jared Murray, have submitter the following:
 * Deliverable 1: Outcomes Based on Launch Date Chart
@@ -9,8 +9,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 ### Deliverable 1: Outcomes Based on Launch Date Chart
 --- 
 Please view the pivot and chart in Sheet >Theater Outcomes by Launch Date>
-To view deliverable 1: Please click on link below to unzip file.
- [Kickstarter_Challenge](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Kickstarter_Challenge.zip)).
+To view deliverable 1: Please click on link [Kickstarter_Challenge](https://github.com/JaredTMurray/Module-1-Challenge/blob/main/Kickstarter_Challenge.zip)).
 
 ### Deliverable 2: Outcomes Based on Goals Chart
 ---
